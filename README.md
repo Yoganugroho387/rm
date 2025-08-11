@@ -85,8 +85,8 @@ Sistem Informasi Klinik (SI Klinik) adalah aplikasi web modern untuk mengelola o
 
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/username/si-klinik.git
-   cd si-klinik
+   git clone https://github.com/Yoganugroho387/rm.git
+   cd rm
    ```
 
 2. **Buka di Browser**
@@ -325,4 +325,4 @@ MIT License - lihat file [LICENSE](LICENSE) untuk detail.
 
 **SI Klinik** - Modernizing Healthcare Management 🏥✨
 
-Made with ❤️ for healthcare professionals
+
